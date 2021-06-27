@@ -46,7 +46,6 @@ def get_filters():
         else:
             break
  
-    ## TO DO: get user input for month (all, january, february, ... , june)
     #defining months
     #using the while loop
     months = ['january', 'february', 'march', 'april', 'may', 'june','all']
@@ -57,7 +56,6 @@ def get_filters():
         else:
             break
 
-    ## TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     #defining day
     days = ['all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
     while True:
