@@ -14,4 +14,6 @@ washington.csv
 new_york_city.csv
 chicago.csv
 
+This project was provided by Udacity and is part of the Nanodegree Programming for Data Science with Python. 
+
 
